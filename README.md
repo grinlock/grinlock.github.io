@@ -2,13 +2,16 @@
 
 ## Полезные ссылки
 
-[Бизнес-статистика](stat.md)
-
-[Матан](matan.md)
-
 [Машинное обучение](ML.md)
 
 [Python](Python.md)
 
-[Инстаграм](https://www.instagram.com/matsecta/)
+[R](R.md)
 
+[Бизнес-статистика](stat.md)
+
+[Матан](matan.md)
+
+[Психология неудач при обучении ML](Freud.md)
+
+[Инстаграм](https://www.instagram.com/matsecta/)
