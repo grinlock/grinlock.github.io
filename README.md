@@ -15,3 +15,5 @@
 [Психология неудач при обучении ML](Freud.md)
 
 [Инстаграм](https://www.instagram.com/matsecta/)
+
+[Донат](https://www.instagram.com/Donate/)
