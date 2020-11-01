@@ -16,4 +16,4 @@
 
 [Инстаграм](https://www.instagram.com/matsecta/)
 
-[Донат](https://www.instagram.com/Donate/)
+[Донат](Donate.md)
